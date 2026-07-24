@@ -40,7 +40,7 @@ Interface totalmente **interativa via terminal**, com menus simples e navegaçã
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/Loboguar4/taskforge.git
+   git clone https://github.com/AshenDesk/taskforge.git
 
 2. Acesse o diretório do projeto:
 
